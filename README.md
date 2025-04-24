@@ -1,6 +1,12 @@
 # NYC Crime Visualization
 
-This project visualizes violent crime data in New York City using interactive components from [Preswald](https://preswald.ai/). The app includes:
+This project visualizes violent crime data in New York City using interactive components from [Preswald](https://docs.preswald.com/introduction).
+
+This was part of a previous project I worked with using Google CoLab: https://colab.research.google.com/drive/1xetEZseenXIPxxRpjnrpe3PUh9Y-T_jJ#scrollTo=Tds8uYn7ECJ1.
+
+I avoided using any frontend framework for the purpose of experimenting with preswald using python scripts.
+
+The app includes:
 
 - 📊 A **data table** showing violent crime categories per borough.
 - 📈 A **bar chart** displaying total arrests per month.
