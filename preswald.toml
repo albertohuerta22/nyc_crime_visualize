@@ -1,0 +1,20 @@
+[project]
+title = "NYC Crime 2023"
+version = "0.1.0"
+port = 8501
+slug = "my-project-508412"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "NYC Crime"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#1F77B4"
+
+[data.NYPD_Arrest_Data_2023]
+type = "csv"
+path = "data/NYPD_Arrest_Data_2023.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
