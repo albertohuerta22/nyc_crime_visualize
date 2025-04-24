@@ -35,6 +35,6 @@ The app includes:
 
 ## 🚀 Deployment
 
-This proejct is hosted on [Render](https://render.com) using the command:
+This proejct is hosted on [Render](https://nyc-crime-visualize.onrender.com/) using the command:
 -build: pip install -r requirements.txt
 -start: preswald run
