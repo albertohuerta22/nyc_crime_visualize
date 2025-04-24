@@ -32,9 +32,13 @@ The app includes:
 
 - Dropdown does not auto-trigger chart/table rerender.
 - Manual page refresh is required after selection change.
+  -bug: "hash_pattern not defined", fixed locally, but deployment env triggers error
 
 ## 🚀 Deployment
 
 This proejct is hosted on [Render](https://nyc-crime-visualize.onrender.com/) using the command:
+
 -build: pip install -r requirements.txt
 -start: preswald run
+
+-Note: this is free tier, wait 5-15seconds for website to spin up
