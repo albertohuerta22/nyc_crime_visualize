@@ -7,8 +7,8 @@ entrypoint = "hello.py"
 
 [branding]
 name = "NYC Crime"
-logo = "images/logo.png"
-favicon = "images/favicon.ico"
+logo = "🚔"
+favicon = "👮‍♀️"
 primaryColor = "#1F77B4"
 
 [data.NYPD_Arrest_Data_2023]
